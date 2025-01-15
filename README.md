@@ -21,4 +21,4 @@ A simple and modern **Profile Card** built using **HTML** and **CSS**. This card
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/profile-card.git
+   git clone https://github.com/mmohamedbassiouny/profile-card.git
