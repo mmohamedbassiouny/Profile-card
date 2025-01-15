@@ -10,7 +10,7 @@ A simple and modern **Profile Card** built using **HTML** and **CSS**. This card
 
 ## 📸 Preview
 
-![Profile Card Preview](assets/images/profile-card-preview.png)
+![Profile Card Preview](assets/screenshot.png.jpg)
 
 ## 🚀 Technologies Used
 
